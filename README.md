@@ -8,11 +8,10 @@
   <a href="https://t.me/Nataly_FrontDev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="">
-    EvdokimenkoND@yandex.ru
-  </a>
 </div>
-
+<div id="socials" align="center">
+    EvdokimenkoND@yandex.ru
+</div>
 ---
 ### About me
 :gift_heart: Люблю красивый и удобный визуал!&nbsp;
