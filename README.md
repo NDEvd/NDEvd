@@ -6,13 +6,14 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/Nataly_FrontDev">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>&nbsp;
-  </a>&nbsp;
-    
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="">
     EvdokimenkoND@yandex.ru
+  </a>
 </div>
 
---
+---
 ### About me
 :gift_heart: Люблю красивый и удобный визуал!&nbsp;
 
@@ -23,7 +24,7 @@
 
 <a href="https://hh.ru/applicant/resumes/view?resume=385c8de7ff0caf8b930039ed1f393873766b4b">Вот мое резюме</a>
 
---
+---
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
