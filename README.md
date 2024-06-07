@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-    <h1>Привет, я - Наташа. :snowboarder: :woman_student: </h1> 
-    <h3>Frontend - developer из Москвы.</h3>
+    <h1>Привет, я - Наташа :snowboarder: :woman_student:</h1> 
+    <h3>Frontend - developer из Москвы</h3>
 </div>
 
 <div id="socials" align="center">
