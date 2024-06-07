@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-    <h1>Привет, я - Наташа.</h1>
+    <h1>Привет, я - Наташа.</h1> :mountain_snow:
     <h3>Frontend - developer из Москвы.</h3>
 </div>
 
