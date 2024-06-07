@@ -1,8 +1,3 @@
-<--
-[!--## Привет, меня зовут Наташа 👋]
-(https://devicon.dev/)
-
--->
 
 <div id="header" align="center">
     <h1>Привет, я - Наташа. :snowboarder: :woman_student: </h1> 
@@ -15,6 +10,7 @@
   </a>
 </div>
 
+
 ### About me
 :gift_heart: Люблю красивый и удобный визуал!&nbsp;
 
@@ -24,6 +20,7 @@
 :zap: :zap: :zap: Сейчас активно ищу работу и имею огромное желание развиваться и быть полезной для моей будущей команды :)
 
 <a href="https://hh.ru/applicant/resumes/view?resume=385c8de7ff0caf8b930039ed1f393873766b4b">Вот мое резюме</a>
+
 
 ### Languages and tools
 
@@ -42,7 +39,7 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
 </div>          
               
           
